@@ -1,3 +1,7 @@
+Esse foi projeto foi integrado com [MagicBits_OSS](https://github.com/edassis/MagicBits_OSS).
+
+---
+
 # DialogueDBs
 
 Contém arquivos relacionados aos Banco de Dados utilizados para diálogos e questões dos minigames.
